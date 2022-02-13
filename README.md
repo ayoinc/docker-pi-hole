@@ -1,5 +1,7 @@
 # Docker Pi-hole
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/74da935b-1093-4d7b-83aa-4639a5bfc514.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/docker-pi-hole?orgId=666444378491)  
+
 <p align="center">
 <a href="https://pi-hole.net"><img src="https://pi-hole.github.io/graphics/Vortex/Vortex_with_text.png" width="150" height="255" alt="Pi-hole"></a><br/>
 </p>
